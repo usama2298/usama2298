@@ -16,9 +16,9 @@ I integrated operational, ERP, file and audit data, resolved conflicting site re
 
 I developed depletion models accounting for seasonal demand, holidays and fuel-price changes. These models guide replenishment planning and flag unusual depletion or purchasing patterns for investigation.
 
-**Operational data systems**
+**Terminal operations platform**
 
-I built structured data-capture workflows to replace fragmented manual records and provide reliable data for analysis.
+Within my group role, I designed and built an operational platform for a fuel-storage terminal, covering operations planning and execution, QHSE permits, maintenance and asset management. I translated fragmented spreadsheet, paper and WhatsApp processes into structured workflows and relational data models, with validation, approvals and audit trails. My work covered requirements, design, AI-assisted implementation and review, rollout and ongoing improvements.
 
 My professional repositories are private. I can discuss my contributions and technical decisions without sharing confidential company code or data.
 
@@ -29,11 +29,3 @@ At Multiverse London, I coached more than 40 working professionals concurrently 
 ## Tools
 
 Python · SQL · Power BI · Tableau · R
-
-## Selected public work
-
-These are earlier academic and personal projects:
-
-- [MSc dissertation](https://github.com/usama2298/MSc-Dissertation): R analysis of Scottish Health Survey data.
-- [Vehicle dataset analysis](https://github.com/usama2298/Kaggle-Vehicle-Dataset-): Python analysis and modelling of a Kaggle dataset.
-- [Household-size group project](https://github.com/usama2298/DAS2021-Group-2): collaborative MSc analysis using R, with a written report.
