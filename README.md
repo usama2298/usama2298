@@ -20,7 +20,7 @@ I developed depletion models accounting for seasonal demand, holidays and fuel-p
 
 Within my group role, I designed and built an operational platform for a fuel-storage terminal, covering operations planning and execution, QHSE permits, maintenance and asset management. I translated fragmented spreadsheet, paper and WhatsApp processes into structured workflows and relational data models, with validation, approvals and audit trails. My work covered requirements, design, AI-assisted implementation and review, rollout and ongoing improvements.
 
-My professional repositories are private. I can discuss my contributions and technical decisions without sharing confidential company code or data.
+My professional repositories are private.
 
 ## Background
 
